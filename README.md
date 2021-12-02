@@ -9,3 +9,7 @@ tugas 9
  # flowchart
  ![FLOWCHART](https://user-images.githubusercontent.com/93035757/144432452-6f2b9c74-9a7f-4f9f-b2e8-aa049e380a38.PNG)
  
+ # HASIL RUNNING TUGAS 2
+ ![Capture tugas 9](https://user-images.githubusercontent.com/93035757/144444968-71607c19-3978-4b94-99fb-065c6ff71d4e.PNG)
+
+ 
