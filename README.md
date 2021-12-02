@@ -7,4 +7,5 @@ tugas 9
 ![Capture daftar nilai mahasiswa](https://user-images.githubusercontent.com/93035757/144077786-3a7626ff-eb4e-496a-8d2e-84e70af389c8.PNG)
  
  # flowchart
+ ![FLOWCHART](https://user-images.githubusercontent.com/93035757/144432452-6f2b9c74-9a7f-4f9f-b2e8-aa049e380a38.PNG)
  
